@@ -15,7 +15,7 @@ Let's suppose that you have a brain and opt for the **2** choice: installing the
 
 Because I'm too lazy to write 69420 times stuff, I wrote a small gist.github.com which you can check [here](https://gist.github.com/dreamwhite/934e7d2bb9e1f2a89c5307485a5c3fb3)
 
-**Q:** Okay, and now where's the problem? Why should I use your dumb module? çç
+**Q:** Okay, and now where's the problem? Why should I use your dumb module? çç<br>
 **A:** If you update your ROM you'll lose the sync adapters, and you have to repeat the procedure again :p That's where Magisk systemless stuff helps us
 
 Please note that nanodroid_gsync stuff isn't working at the time of writing. I don't know if they'll even care about this or not, but at the moment this is the only solution çç

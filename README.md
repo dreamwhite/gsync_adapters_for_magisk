@@ -24,16 +24,7 @@ Please note that nanodroid_gsync stuff isn't working at the time of writing. I d
 
 **Before installing the module remove any previous attempt of using sync adapters**
 
-Download from Releases section of this GitHub repository the latest version of the module (at the time of writing is 69420 for obvious reasons hehe) and install it via Magisk Manager.
-
-After doing so, follow those steps:
-1. open `System Settings`
-2. click on `Apps & Notifications`
-3. click on `See all 69420 apps`
-4. Tap on the three dots and click on `Show system`
-5. Locate `Google Calendar Sync` and give it the `Calendar` permission
-5. Locate `Google Contacts Sync` and give it both `Contacts` permission and `Additional permissions/Contacts`
-6. **ADDITIONAL STEP IF YOU HAVE A FIREWALL LIKE AFWALL+:** in `System` section give both adapters the permission to use internet both via WiFi and Mobile data
+Nothing more than ownload from Releases section of this GitHub repository the latest version of the module (at the time of writing is 69420 for obvious reasons hehe) and install it via Magisk Manager.
 
 # Credits:
 

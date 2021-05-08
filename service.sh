@@ -4,3 +4,4 @@ pm grant "com.google.android.syncadapters.calendar" android.permission.WRITE_CAL
 pm grant "com.google.android.syncadapters.contacts" android.permission.READ_CONTACTS
 pm grant "com.google.android.syncadapters.contacts" android.permission.WRITE_CONTACTS
 pm grant "com.google.android.syncadapters.contacts" com.google.android.googleapps.permission.GOOGLE_AUTH.cp
+pm grant "com.google.android.backuptransport" android.permission.GET_ACCOUNTS

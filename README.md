@@ -26,6 +26,10 @@ Please note that nanodroid_gsync stuff isn't working at the time of writing. I d
 
 Nothing more than ownload from Releases section of this GitHub repository the latest version of the module (at the time of writing is 69420 for obvious reasons hehe) and install it via Magisk Manager.
 
-# Credits:
+# Issues
+
+If you encounter any issue, please file a bugreport [here](https://github.com/dreamwhite/bugtracker/issues/new?assignees=dreamwhite&labels=bug&template=generic.md&title=)
+
+# Credits
 
 Please note that I do not own neither APKMirror nor Google Sync Adapter, nor microG nor whateveryouwant I just wanted to clarify the setup process for the install adapters after reading [this issue](https://github.com/microg/GmsCore/issues/585)

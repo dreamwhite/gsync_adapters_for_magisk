@@ -24,7 +24,9 @@ Please note that nanodroid_gsync stuff isn't working at the time of writing. I d
 
 **Before installing the module remove any previous attempt of using sync adapters**
 
-Nothing more than ownload from Releases section of this GitHub repository the latest version of the module (at the time of writing is 69420 for obvious reasons hehe) and install it via Magisk Manager.
+Nothing more than downloading from Releases section of this GitHub repository the latest version of the module (at the time of writing is 69420 for obvious reasons hehe) and install it via Magisk Manager.
+
+As per dreamwhite/bugtracker#29, make sure to enable network permission for both sync adapters
 
 # Issues
 

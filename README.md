@@ -1,5 +1,11 @@
 # GoogleSyncAdapters for Magisk v.22
 
+# IMPORTANT NOTE!!
+
+Since 2022 I switched to iOS (fuck my life). I know Android has better customization opportunities but I was really tired of having constant headaches trying to debug issues because I was privacy scared and wanted to debunk myself from Google stuff. I'm constantly using GMail as well as Drive and other products (YT Premium user :P ) so the thing doesn't matter me anymore.
+
+I'm archiving this repository as I cannot test it (have a spare cellphone but never turned it on since 3 months or so). In case anyone wants to contribute to the """project""" please fork it and mention me in the credits
+
 # Why should I have this module?
 
 First of all let me write a brief introduction to what the module does.
